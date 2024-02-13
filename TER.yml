@@ -1,19 +1,12 @@
-name: honlp
+name: TER
 channels:
   - defaults
   - conda-forge
 dependencies:
   - python=3.10
   - ipykernel
-  - matplotlib
-  - nltk
-  - pandas
-  - seaborn
-  - ipywidgets
-  - scikit-learn
-  - spacy
-  - torchaudio
-  - torchvision
-  - pytorch
   - transformers
-prefix: /Users/javierlopetegui/miniforge3/envs/honlp
+  - matplotlib
+  - seaborn
+  - scikit-learn
+prefix: /Users/javierlopetegui/miniforge3/envs/TER
